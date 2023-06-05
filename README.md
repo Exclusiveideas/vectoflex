@@ -34,7 +34,7 @@ The SVG AI Generator utilizes artificial intelligence to create raster images an
 
 To run SVG Studio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Exclusiveideas/vectorflex.git`
+1. Clone the repository: `git clone https://github.com/Exclusiveideas/vectorflex-studio.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm run dev`
 4. Open your browser and visit: `http://localhost:5173`
