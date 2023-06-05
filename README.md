@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-SVG Studio is a web application that provides a comprehensive set of tools for working with Scalable Vector Graphics (SVG). It allows users to create, animate, edit, optimize, convert, and generate AI files from SVGs, offering a powerful suite of features for working with vector-based graphics.
+SVG Studio is a web application that provides a comprehensive set of tools for working with Scalable Vector Graphics (SVG). It allows users to create, animate, edit, optimize, convert, and generate SVG images utilizing artificial intelligence, offering a powerful suite of features for working with vector-based graphics.
 
 ## Features
 
@@ -28,7 +28,7 @@ The SVG Optimization feature optimizes SVG files for improved performance and re
 
 ### SVG AI Generator
 
-The SVG AI Generator generates AI (Adobe Illustrator) files from SVGs. This feature allows users to seamlessly transfer their SVG graphics into the popular AI format, enabling compatibility with various design workflows.
+The SVG AI Generator utilizes artificial intelligence to create raster images and converts them into SVG format on demand. This feature leverages advanced algorithms to generate high-quality vector-based graphics from raster images, expanding the possibilities of working with different image formats
 
 ## Getting Started
 
