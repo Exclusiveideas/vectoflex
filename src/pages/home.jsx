@@ -5,13 +5,13 @@ const ConstructionHomepage = () => {
   return (
     <div className="container">
       <header>
-        <h1>Under Construction</h1>
+        <h1>Under Construction </h1>
       </header>
       <main>
         <section>
           <img src={construction} className='construction' />
           <div className="animated-text">
-            <p>Welcome to our website!</p>
+            <p>Welcome to our website!!</p>
             <p>We are currently working on some updates.</p>
             <p>Stay tuned for the exciting changes coming soon!</p>
           </div>
