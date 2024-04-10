@@ -4,6 +4,8 @@
 
 SVG Studio is a web application that provides a comprehensive set of tools for working with Scalable Vector Graphics (SVG). It allows users to create, animate, edit, optimize, convert, and generate SVG images utilizing artificial intelligence, offering a powerful suite of features for working with vector-based graphics.
 
+## Stage
+This Application isn'r fully functional yet and its development has been paused till further notice.
 ## Features
 
 ### SVG Animation Studio
